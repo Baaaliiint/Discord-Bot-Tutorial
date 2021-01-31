@@ -5,7 +5,7 @@
 **3**. Letöltöd a bot fájlokat vagy lemásolod a videóból![]
 
 
-![Jobb felül code -> Download zip](https://i.imgur.com/nxsv2zf.png"Jobb felül code -> Download zip")
+![Jobb felül code -> Download zip](https://i.imgur.com/nxsv2zf.png "Jobb felül code -> Download zip")
 
 # Config.json
 ```javascript
