@@ -7,6 +7,8 @@
 
 ![Jobb felül code -> Download zip](https://i.imgur.com/nxsv2zf.png "Jobb felül code -> Download zip")
 
+Ha esetlegesen letöltötted akkor a parancssorba írd be hogy **npm i** a videó alapján
+
 # Config.json
 ```javascript
 {
